@@ -1,0 +1,6 @@
+﻿  Seminar2.c
+C:\Users\daria\OneDrive\Desktop\Seminar2SD\Seminar2SD\Seminar2.c(19,33): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\daria\OneDrive\Desktop\Seminar2SD\Seminar2SD\Seminar2.c(21,13): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+C:\Users\daria\OneDrive\Desktop\Seminar2SD\Seminar2SD\Seminar2.c(94,44): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\daria\OneDrive\Desktop\Seminar2SD\Seminar2SD\Seminar2.c(107,56): warning C4305: 'function': truncation from 'double' to 'float'
+  Seminar2SD.vcxproj -> C:\Users\daria\OneDrive\Desktop\Seminar2SD\x64\Debug\Seminar2SD.exe
